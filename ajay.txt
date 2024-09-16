@@ -8,3 +8,5 @@ this is the first practice page
 my fab game is cricket
 my fab song is xyz
 my fab movie is URI 
+my fab player is virat kohli
+my fab player is Rohit Sharma
